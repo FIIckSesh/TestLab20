@@ -1,7 +1,7 @@
 /**
  * showupper.c -- функция вывода текста из файла прописными буквами
  *
- * Copyright (c) 2018, Hristoforov Egor <hristofo@petrsu.ru>
+ * Copyright (c) 2018, Alexander Chernyshov <achernys@petrsu.ru>
  *
  * This code is licensed under a MIT-style license.
  */
