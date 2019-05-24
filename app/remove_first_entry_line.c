@@ -1,7 +1,7 @@
 /**
  * remove_first_entry_line.c -- функция удаления первой пустой строки из файла
  *
- * Copyright (c) 2018, Hristoforov Egor <hristofo@petrsu.ru>
+ * Copyright (c) 2018, Alexander Chernyshov <achernys@petrsu.ru>
  *
  * This code is licensed under a MIT-style license.
  */
