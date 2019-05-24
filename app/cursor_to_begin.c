@@ -1,7 +1,7 @@
 /**
  * cursor_to_begin.c -- функция перевода курсора в начало текущей строки
  *
- * Copyright (c) 2018, Hristoforov Egor <hristofo@petrsu.ru>
+ * Copyright (c) 2018, Alexander Chernyshov <achernys@petrsu.ru>
  *
  * This code is licensed under a MIT-style license.
  */
