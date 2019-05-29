@@ -1,5 +1,5 @@
 # TestLab20
-[![Build Status](https://travis-ci.org/egorhristoforov/testing2.svg?branch=master)](https://travis-ci.org/egorhristoforov/testing2)
+[![Build Status](https://travis-ci.org/FIIckSesh/TestLab20.svg?branch=master)](https://travis-ci.org/FIIckSesh/TestLab20)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=FIIckSesh_TestLab20&metric=code_smells)](https://sonarcloud.io/dashboard?id=FIIckSesh_TestLab20)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=FIIckSesh_TestLab20&metric=bugs)](https://sonarcloud.io/dashboard?id=FIIckSesh_TestLab20)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=FIIckSesh_TestLab20&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=FIIckSesh_TestLab20)
